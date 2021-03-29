@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GUIGANTONDamien/Contact-app/static/css/main.60a342e5.chunk.css",
+    "main.js": "/GUIGANTONDamien/Contact-app/static/js/main.d4a46148.chunk.js",
+    "main.js.map": "/GUIGANTONDamien/Contact-app/static/js/main.d4a46148.chunk.js.map",
+    "runtime-main.js": "/GUIGANTONDamien/Contact-app/static/js/runtime-main.ce04c862.js",
+    "runtime-main.js.map": "/GUIGANTONDamien/Contact-app/static/js/runtime-main.ce04c862.js.map",
+    "static/js/2.69ff9bdf.chunk.js": "/GUIGANTONDamien/Contact-app/static/js/2.69ff9bdf.chunk.js",
+    "static/js/2.69ff9bdf.chunk.js.map": "/GUIGANTONDamien/Contact-app/static/js/2.69ff9bdf.chunk.js.map",
+    "static/js/3.5915865d.chunk.js": "/GUIGANTONDamien/Contact-app/static/js/3.5915865d.chunk.js",
+    "static/js/3.5915865d.chunk.js.map": "/GUIGANTONDamien/Contact-app/static/js/3.5915865d.chunk.js.map",
+    "index.html": "/GUIGANTONDamien/Contact-app/index.html",
+    "static/css/main.60a342e5.chunk.css.map": "/GUIGANTONDamien/Contact-app/static/css/main.60a342e5.chunk.css.map",
+    "static/js/2.69ff9bdf.chunk.js.LICENSE.txt": "/GUIGANTONDamien/Contact-app/static/js/2.69ff9bdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce04c862.js",
+    "static/js/2.69ff9bdf.chunk.js",
+    "static/css/main.60a342e5.chunk.css",
+    "static/js/main.d4a46148.chunk.js"
+  ]
+}
